@@ -18,6 +18,7 @@ public class Main {
             antal++;
             result = sum/antal;
             System.out.println("Gennemsnittet af de indtastede tal er: " + result);
+
         }
     }
 }
